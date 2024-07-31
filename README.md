@@ -21,7 +21,7 @@ Hello! I'm an **Electrical Engineer** with a passion for technology and innovati
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavaStosic3&show_icons=true&theme=radical)
 
 ---
 
