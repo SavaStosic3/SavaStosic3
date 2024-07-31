@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome to My GitHub Portfolio! 👋
 
-<!--
-**SavaStosic3/SavaStosic3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm an **Electrical Engineer** with a passion for technology and innovation. Over the years, I have honed my skills in **Python**, **Azure**, and **Data Engineering**. My journey in the tech world has been driven by curiosity, creativity, and a relentless drive to solve complex problems.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Electrical Engineering**: Circuit design, microcontrollers, embedded systems, and signal processing.
+- **Programming Languages**: Python, SQL, KQL.
+- **Cloud Computing**: Azure, AWS
+- **Tools & Technologies**: Git, Docker, Kubernetes, Pandas, NumPy, Scikit-learn.
+
+---
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting my GitHub portfolio. Feel free to explore my projects and get in touch if you have any questions or collaboration ideas!
