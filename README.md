@@ -79,22 +79,6 @@ I treat my side projects as the proving ground for this: the goal isn't the app,
 
 ---
 
-## Featured Projects
-
-<!--
-  ⚠️ Fill these in — this table is the single highest-value part of the page for a recruiter.
-  Two or three real projects beat ten placeholders. For each one, answer: what problem, what stack, what result.
-  Then pin the same repos on your profile so the table and the pins agree.
--->
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[project-name](https://github.com/SavaStosic3/project-name)** | One line on the problem it solves and the outcome. | `Python` `Azure` `Docker` |
-| **[project-name](https://github.com/SavaStosic3/project-name)** | One line on the problem it solves and the outcome. | `Python` `SQL` `Pandas` |
-| **[project-name](https://github.com/SavaStosic3/project-name)** | One line on the problem it solves and the outcome. | `KQL` `Azure` |
-
----
-
 ## GitHub Activity
 
 <p align="center">
