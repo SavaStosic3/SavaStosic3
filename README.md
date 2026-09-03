@@ -89,15 +89,6 @@ URLs, and [Mini Utilities](https://github.com/SavaStosic3/Mini-Utilities) is exa
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" alt="Sava's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=SavaStosic3&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=768390">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavaStosic3&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=2f81f7&text_color=768390">
-</p>
-
----
-
 ## Let's Talk
 
 I'm always up for a conversation about data platforms, Azure, or how to get real work out of AI coding agents.
