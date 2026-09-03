@@ -44,6 +44,16 @@ inside VS Code Insiders. The direction I'm pushing it is:
 
 I treat my side projects as the proving ground for this: the goal isn't the app, it's the workflow that ships it.
 
+Most of that proving ground lives in private repos — **Flare**, a SwiftUI meetup app on Firebase with a
+TypeScript Cloud Functions backend; **Durak**, an offline card game in Expo with its own rules engine and
+bots; **Restore Old Photos**, a Next.js platform running Gemini on Vertex AI behind Stripe credits and a
+Cloud Run worker; a resident-only portal for a condo building; **Keasy**, a real-estate marketing monorepo;
+and **Command Center**, a local-first dashboard that pulls Strava, Garmin, Gmail and Calendar into one view
+and runs a rules engine over the result. The public ones are smaller and more fun:
+[Walkout Music](https://github.com/SavaStosic3/Walkout-Music) plays a guest's entrance song off an NFC tap,
+[SEO Search Tool](https://github.com/SavaStosic3/SEO-Search-Tool) bulk-audits Core Web Vitals from a CSV of
+URLs, and [Mini Utilities](https://github.com/SavaStosic3/Mini-Utilities) is exactly what it sounds like.
+
 ---
 
 ## Tech Stack
