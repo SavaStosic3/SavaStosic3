@@ -19,7 +19,7 @@ I turn ambiguous business problems into reliable cloud systems and shipped produ
 - **[AI-enabled deployment automation](https://www.savastosic.com/case-studies/deployment-automation)** — LangChain workflows for scope discovery, human intervention, and final verification.
 - **[Industrial machine learning](https://www.savastosic.com/case-studies/industrial-machine-learning)** — Predicting ore-grinding output size and throughput with limited data.
 
-## Products & open source
+## Products
 
 | Project | What I built | Explore |
 | --- | --- | --- |
