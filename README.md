@@ -23,7 +23,6 @@ I turn ambiguous business problems into reliable cloud systems and shipped produ
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| **openReconcile** | Visual mass balance reconciliation for industrial processes, with uncertainty-aware solving, SQL/PI connector support, and Docker self-hosting. | [Public code & documentation](https://github.com/SavaStosic3/openReconcile) |
 | **Flare** | A native iPhone app for spontaneous plans with friends, with map discovery, audience choices, and RSVPs. SwiftUI, MapKit, and Firebase. | [Product & architecture](https://www.savastosic.com/projects/flare) |
 | **Durak** | A card game with a shared TypeScript rules engine, bot opponents, and persistent offline play. React Native and Expo. | [Product & architecture](https://www.savastosic.com/projects/durak) |
 | **Harbourpoint Community** | A resident portal for parking, storage lockers, marketplace listings, and contractor recommendations. Next.js and Firebase. | [Product & architecture](https://www.savastosic.com/projects/harbourpoint-community) |
